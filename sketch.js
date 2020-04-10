@@ -38,7 +38,7 @@ function draw(){
   fill(255);
 
   // Create an ellipse that will move around with you mouse about the X axis.
-  ellipse(mouseX,350,50,50);
+  ellipse(mouseX,mouseY,50,50);
 
   
 
